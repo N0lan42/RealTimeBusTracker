@@ -4,6 +4,8 @@ In this exercise we used Mapbox and MBTA bus data to animate a tracker that woul
 To use this program you would simply load the page and then press the button to show you the stops inbetween MIT and Harvard; aswell as the location of the bus.
 
 For future implications we could design this to update over multiple different areas, not only use one kind of public transportation and possibly add toll cost data.
+
+
 MIT License
 
 Copyright (c) 2023 N0lan42
